@@ -47,10 +47,10 @@ src/
 ```
 All Users:  
 User{id=1, name='Reza', email='reza@example.com'}  
-User{id=2, name='Sara', email='sara@example.com'}  
+User{id=2, name='Mahshad', email='mahshad@example.com'}  
 
-User with ID 2:  
-User{id=2, name='Sara', email='sara@example.com'}  
+User with ID 1:  
+User{id=1, name='Reza', email='reza@example.com'}  
 ```
 
 ## Author
